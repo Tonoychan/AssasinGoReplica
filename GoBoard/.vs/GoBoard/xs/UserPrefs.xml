@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3ED095F1-5AC4-1E57-0582-2140966BC4E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Mover.cs" Line="75" Column="29" />
+      <File FileName="Assets/Scripts/Node.cs" />
+      <File FileName="Assets/Scripts/Board.cs" Line="8" Column="50" />
+      <File FileName="Assets/Scripts/Player/PlayerInput.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerManager.cs" Line="22" Column="75" />
+      <File FileName="Assets/Scripts/Player/PlayerMover.cs" Line="43" Column="1" />
+      <File FileName="Assets/Scripts/Utility.cs" />
+      <File FileName="Assets/Scripts/Link.cs" />
+      <File FileName="Assets/Scripts/Obstacle.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="170" Column="17" />
+      <File FileName="Assets/Scripts/Spinner.cs" />
+      <File FileName="Assets/Scripts/EndScreen.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerCompass.cs" />
+      <File FileName="Assets/Scripts/Enemy/EnemyManager.cs" Line="28" Column="38" />
+      <File FileName="Assets/Scripts/Enemy/EnemyMover.cs" Line="67" Column="28" />
+      <File FileName="Assets/Scripts/Enemy/EnemySensor.cs" Line="46" Column="8" />
+      <File FileName="Assets/Scripts/TurnManager.cs" Line="21" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="896a4278-4807-465a-b7d6-b60d136b6d73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
